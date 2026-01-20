@@ -1,0 +1,19 @@
+const aspData = {
+    "asp": {
+        "title": "ASP",
+        "partners": [
+            {
+                "name": "SI Purushottam Pandey",
+                "address": "Kharagput Town PS",
+                "mobile": "9876543210",
+                "whatsapp": "919876543210"
+            },
+            {
+                "name": "SI Jahangir Alam",
+                "address": "Khirpai PS",
+                "mobile": "9876500000",
+                "whatsapp": "919876500000"
+            }
+        ]
+    }
+};
